@@ -5,5 +5,5 @@ package com.liuyao;
  * @date 2018/07/28
  */
 public interface Merger<E> {
-    public E merger(E a, E b);
+    public E merge(E a, E b);
 }
